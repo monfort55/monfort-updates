@@ -1,5 +1,14 @@
 {
-  "version": "p3.0.2",
-  "url": "https://github.com/monfort55/monfort-updates/releases/download/programs-latest/programs_update.zip",
-  "notes": "Claim: Funds, Dungeon 75"
+  "version": "p3.0.3",
+  "url": "https://github.com/...",
+  "changelog": [
+    {
+      "title": "Dungeons",
+      "log": "Dungeon 110: Purgatory\nDungeon 150: The Underdark"
+    },
+    {
+      "title": "Beast Soul",
+      "log": "Promote x10 then x1 until no mats left"
+    }
+  ]
 }
