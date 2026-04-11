@@ -3,12 +3,20 @@
   "url": "https://github.com/monfort55/monfort-updates/releases/download/programs-latest/programs_update.zip",
   "changelog": [
     {
-      "title": "T",
-      "log": "123F"
+    "title": "Elementals", 
+    "log": "Update: Inventory full check at the beginig, and give notif when full"
     },
     {
-      "title": "N",
-      "log": "234F"
+    "title": "Dimentional Pocket", 
+    "log": "Features: option to choose seletected items, low level toon will skip dimention pocket"
+    },
+    {
+    "title": "Beast Soul", 
+    "log": "Features: Promote x10 then x1, until no mats left. Will stop when max lvl reached."
+    },
+    {
+    "title": "Dungeon", 
+    "log": "Dungeon 110: Purgatory, Dungeon 150: The Underdark, Dungeon 165: Palace Ruins"
     }
   ]
 }
