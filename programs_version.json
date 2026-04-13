@@ -1,22 +1,26 @@
 {
-  "version": "p3.0.4",
+  "version": "p3.0.5",
   "url": "https://github.com/monfort55/monfort-updates/releases/download/programs-latest/programs_update.zip",
   "changelog": [
     {
-      "title": "Elementals",
-      "log": "[Update] Inventory full check at the beginig, and give notif when full\n[Update] Paid entry chance bug"
+      "title": "The Void",
+      "log": "[Note] Solo run until dead\n[Feature] Option to clean inventory with checkbox of items selection\n[Note] Set level to exit will be available later"
     },
     {
-      "title": "Dimentional Pocket",
-      "log": "[Feature] option to choose seletected items, low level toon will skip dimention pocket"
+      "title": "Adventurous",
+      "log": "[Feature] Automatically fill the recommended trait on every map, if no recommended trait found will select random one\n[Feature] After every recall, automatically consume all adventure badges (but when no recall clicked on the session, will skip this part)\n[Feature] Option to recall only when 0\n[Feature] Option to exchange adventure badge for soul shard\n[Feature] Option to recruit companion before start"
     },
     {
-      "title": "Beast Soul",
-      "log": "[Update] Promote x10 then x1, until no mats left. Will stop when max lvl reached."
+      "title": "Adventurous",
+      "log": "[Update] Adding auto consume mystic pearls after the end of run, wont trigger without run the angelarium. The consume will auto upgrade when the upgrade active"
     },
     {
-      "title": "Dungeon",
-      "log": "[Update] Dungeon 110: Purgatory, Dungeon 150: The Underdark, Dungeon 165: Palace Ruins"
+      "title": "Crystal Ladder",
+      "log": "[Update] Ladder Blitz now change name to Crystal Ladder, becuase in the future will create ladder from 1,50,100,150 (Solo Run)\n[Update] Clean Inventory option added"
+    },
+    {
+      "title": "Dungeons",
+      "log": "[Update] Dungeon 175, Dungeon 195"
     }
   ]
 }
