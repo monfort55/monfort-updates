@@ -1,26 +1,22 @@
 {
-  "version": "p3.0.5",
+  "version": "p3.0.6",
   "url": "https://github.com/monfort55/monfort-updates/releases/download/programs-latest/programs_update.zip",
   "changelog": [
     {
-      "title": "The Void",
-      "log": "[Note] Solo run until dead\n[Feature] Option to clean inventory with checkbox of items selection\n[Note] Set level to exit will be available later"
+      "title": "Magic Tower",
+      "log": "[Update] Auto upgrade at the end of run (only when enter)"
     },
     {
-      "title": "Adventurous",
-      "log": "[Feature] Automatically fill the recommended trait on every map, if no recommended trait found will select random one\n[Feature] After every recall, automatically consume all adventure badges (but when no recall clicked on the session, will skip this part)\n[Feature] Option to recall only when 0\n[Feature] Option to exchange adventure badge for soul shard\n[Feature] Option to recruit companion before start"
+      "title": "Patrons",
+      "log": "[Update] Fix blessing behavior"
     },
     {
-      "title": "Adventurous",
-      "log": "[Update] Adding auto consume mystic pearls after the end of run, wont trigger without run the angelarium. The consume will auto upgrade when the upgrade active"
+      "title": "Vault",
+      "log": "[Update] Put items to vaults and take item from vaults"
     },
     {
-      "title": "Crystal Ladder",
-      "log": "[Update] Ladder Blitz now change name to Crystal Ladder, becuase in the future will create ladder from 1,50,100,150 (Solo Run)\n[Update] Clean Inventory option added"
-    },
-    {
-      "title": "Dungeons",
-      "log": "[Update] Dungeon 175, Dungeon 195"
+      "title": "Ladder",
+      "log": "[Update] Add purity stone to clean inventory list"
     }
   ]
 }
