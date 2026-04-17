@@ -1,22 +1,10 @@
 {
-  "version": "p3.0.6",
+  "version": "p3.0.7",
   "url": "https://github.com/monfort55/monfort-updates/releases/download/programs-latest/programs_update.zip",
   "changelog": [
     {
-      "title": "Magic Tower",
-      "log": "[Update] Auto upgrade at the end of run (only when enter)"
-    },
-    {
-      "title": "Patrons",
-      "log": "[Update] Fix blessing behavior"
-    },
-    {
-      "title": "Vault",
-      "log": "[Update] Put items to vaults and take item from vaults"
-    },
-    {
-      "title": "Ladder",
-      "log": "[Update] Add purity stone to clean inventory list"
+      "title": "ADJUSMENT",
+      "log": "[Update] Fixing any bug related to new inventory layout and some icons"
     }
   ]
 }
