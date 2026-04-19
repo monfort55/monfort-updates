@@ -1,10 +1,18 @@
 {
-  "version": "p3.0.7",
+  "version": "p3.0.8",
   "url": "https://github.com/monfort55/monfort-updates/releases/download/programs-latest/programs_update.zip",
   "changelog": [
     {
-      "title": "ADJUSMENT",
-      "log": "[Update] Fixing any bug related to new inventory layout and some icons"
+      "title": "Vaults",
+      "log": "[Bug] Fixing items not showing"
+    },
+    {
+      "title": "Dungeon",
+      "log": "[Update] Dungeon 215, Dungeon 235, Dungeon 255, Dungeon 275, Dungeon 295\n[Update] Backup for VIP toon, 0/8"
+    },
+    {
+      "title": "Crystal Ladder",
+      "log": "[Update] Add option to run from 150 Solo\n[Update] A hotbar for roque gear swithing"
     }
   ]
 }
