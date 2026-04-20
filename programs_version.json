@@ -1,18 +1,38 @@
 {
-  "version": "p3.0.8",
+  "version": "p3.0.9",
   "url": "https://github.com/monfort55/monfort-updates/releases/download/programs-latest/programs_update.zip",
   "changelog": [
     {
+      "title": "Babel Mystic Tree",
+      "log": "[Bug] Free detection bug"
+    },
+    {
+      "title": "Patrons",
+      "log": "[Bug] Only do patron once"
+    },
+    {
+      "title": "Adventurous",
+      "log": "[Bug] Bug fixed\n[Update] Consume Adventurous badges now faster because dode complained"
+    },
+    {
+      "title": "Corruption",
+      "log": "[Bug] Stuck on killing mobs not continue to claim fixed"
+    },
+    {
       "title": "Vaults",
-      "log": "[Bug] Fixing items not showing"
+      "log": "[Bug] High movement stats toon only open vault II fixed"
     },
     {
-      "title": "Dungeon",
-      "log": "[Update] Dungeon 215, Dungeon 235, Dungeon 255, Dungeon 275, Dungeon 295\n[Update] Backup for VIP toon, 0/8"
+      "title": "Dungeon 215",
+      "log": "[Bug] Stuck when not include red"
     },
     {
-      "title": "Crystal Ladder",
-      "log": "[Update] Add option to run from 150 Solo\n[Update] A hotbar for roque gear swithing"
+      "title": "Dungeon 275",
+      "log": "[Bug] Sometimes stuck on boss"
+    },
+    {
+      "title": "Dungeon 235",
+      "log": "[Bug] Bug when do 125 fixed"
     }
   ]
 }
