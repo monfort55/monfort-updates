@@ -1,38 +1,18 @@
 {
-  "version": "p3.0.9",
+  "version": "p3.0.10",
   "url": "https://github.com/monfort55/monfort-updates/releases/download/programs-latest/programs_update.zip",
   "changelog": [
     {
-      "title": "Babel Mystic Tree",
-      "log": "[Bug] Free detection bug"
-    },
-    {
-      "title": "Patrons",
-      "log": "[Bug] Only do patron once"
-    },
-    {
-      "title": "Adventurous",
-      "log": "[Bug] Bug fixed\n[Update] Consume Adventurous badges now faster because dode complained"
-    },
-    {
       "title": "Corruption",
-      "log": "[Bug] Stuck on killing mobs not continue to claim fixed"
+      "log": "[Update] Now have option to set max level each toon on the list can go\n[Note] There is global setting to, in case you want to set 1 max level for all toon on the list\n[Note] Individual max level, this will overide global setting if set\n[Note] When global setting and individual set to off, it will run until dead\n[Update] Add option to run 5th (Defeat Monster entry)\n[Note] It will pick the area randomly where it will afk killing mobs"
     },
     {
-      "title": "Vaults",
-      "log": "[Bug] High movement stats toon only open vault II fixed"
+      "title": "Dungeon",
+      "log": "[Update] All Dungeons completed"
     },
     {
-      "title": "Dungeon 215",
-      "log": "[Bug] Stuck when not include red"
-    },
-    {
-      "title": "Dungeon 275",
-      "log": "[Bug] Sometimes stuck on boss"
-    },
-    {
-      "title": "Dungeon 235",
-      "log": "[Bug] Bug when do 125 fixed"
+      "title": "Vault",
+      "log": "[Update] Now can store all Epic Shard in vault or take them"
     }
   ]
 }
