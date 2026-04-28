@@ -2,17 +2,5 @@
   "version": "p3.0.11",
   "url": "https://github.com/monfort55/monfort-updates/releases/download/programs-latest/programs_update.zip",
   "changelog": [
-    {
-      "title": "Corruption",
-      "log": "[Update] Now have option to set max level each toon on the list can go\n[Note] There is global setting to, in case you want to set 1 max level for all toon on the list\n[Note] Individual max level, this will overide global setting if set\n[Note] When global setting and individual set to off, it will run until dead\n[Update] Add option to run 5th (Defeat Monster entry)\n[Note] It will pick the area randomly where it will afk killing mobs"
-    },
-    {
-      "title": "Dungeon",
-      "log": "[Update] All Dungeons completed"
-    },
-    {
-      "title": "Vault",
-      "log": "[Update] Now can store all Epic Shard in vault or take them"
-    }
   ]
 }
