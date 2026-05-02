@@ -1,18 +1,22 @@
 {
-  "version": "p3.0.15",
+  "version": "p3.0.16",
   "url": "https://github.com/monfort55/monfort-updates/releases/download/programs-latest/programs_update.zip",
   "changelog": [
     {
-      "title": "Funds",
-      "log": "[Update] Default option to none"
+      "title": "Vault",
+      "log": "[Update] Add more items"
     },
     {
-      "title": "The void solo",
-      "log": "[Bug] Skip disable afk when not doing clean inventory fixed"
+      "title": "Dungeon 215",
+      "log": "[Bug] Unequip stuck fixed for Ranger and Priest"
     },
     {
-      "title": "Angelarium",
-      "log": "[Update] Now it will use purity stone to train or summon\n[Bug] It skip using orbs only when not enter sin place, fixed and change to only use orb when enter, skip when not enter"
+      "title": "Dungeon 355",
+      "log": "[Bug] Map Stuck fixed"
+    },
+    {
+      "title": "Bounty",
+      "log": "[Update] Added Issue Bounty"
     }
   ]
 }
