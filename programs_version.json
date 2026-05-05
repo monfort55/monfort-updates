@@ -1,22 +1,6 @@
 {
-  "version": "p3.0.16",
+  "version": "p3.0.17",
   "url": "https://github.com/monfort55/monfort-updates/releases/download/programs-latest/programs_update.zip",
   "changelog": [
-    {
-      "title": "Vault",
-      "log": "[Update] Add more items"
-    },
-    {
-      "title": "Dungeon 215",
-      "log": "[Bug] Unequip stuck fixed for Ranger and Priest"
-    },
-    {
-      "title": "Dungeon 355",
-      "log": "[Bug] Map Stuck fixed"
-    },
-    {
-      "title": "Bounty",
-      "log": "[Update] Added Issue Bounty"
-    }
   ]
 }
